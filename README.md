@@ -1,4 +1,4 @@
-# Hi there, I'm Emre Yüe 👋
+# Hi there, I'm Emre Yüce 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** specializing in Microsoft technologies such as **.NET**, **C#**, **ASP.NET CORE**, and **SQL Server**. Here, you'll find various projects where I explore modern development techniques and build innovative solutions.
 
