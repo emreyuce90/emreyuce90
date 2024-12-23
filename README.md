@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** specializi
 
 ---
 
+
 ## 🌐 About Me
 
 - 🏡 Based in **Turkey**.
@@ -34,7 +35,11 @@ An e-commerce API implementing **Onion Architecture** and **CQRS Pattern**.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mreyuce) to discuss collaboration opportunities.
 
 ---
+![emreyuce90's Stats](https://github-readme-stats.vercel.app/api?username=emreyuce90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![emreyuce90's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emreyuce90&theme=vue-dark&hide_border=true)
+
+![emreyuce90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyuce90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects.
 
